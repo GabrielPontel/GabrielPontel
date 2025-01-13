@@ -1,4 +1,5 @@
-### Olá, eu sou o Gabriel
+### Gabriel Pontel de Mori
+
 📖Ciencia da Computação - IFSP
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel__mori/)

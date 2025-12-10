@@ -1,8 +1,6 @@
 ### Gabriel Pontel de Mori
 
-📖Ciencia da Computação - IFSP
-
-Olá, meu nome é Gabriel. Estou cursando Bacharelado em Ciências da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo visando me tornar cada vez mais capacitado profissionalmente. Sou proativo, comunicativo e focado na execução de tarefas. Além disso, sempre estou disposto a aprender novas tecnologias e ampliar meus conhecimentos. Busco evoluir, contribuindo com responsabilidade e dedicação em cada projeto do qual participo. 
+Olá, meu nome é Gabriel. Estou cursando Bacharelado em Ciências da Computação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo visando me tornar cada vez mais capacitado profissionalmente. Sou proativo, comunicativo e focado na execução de tarefas. Além disso, sempre estou disposto a aprender novas tecnologias e ampliar meus conhecimentos. Busco evoluir, contribuindo com responsabilidade e dedicação em cada projeto em que participo. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel__mori/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.ponteldemori)

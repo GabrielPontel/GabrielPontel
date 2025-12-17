@@ -6,8 +6,9 @@ Olá, meu nome é Gabriel. Estou cursando Bacharelado em Ciências da Computaç�
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriel.ponteldemori)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pontel-de-mori-ab819b304/)
 
-![GabrielPontel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPontel&show_icons=true&theme=ocean_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPontel&layout=donut&show_icons=true&theme=ocean_dark)](https://github.com/GabrielPontel/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=GabrielPontel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielPontel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPontel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div style="display: inline_block">
 💻 Hard Skills:
 

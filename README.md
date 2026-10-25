@@ -14,7 +14,7 @@ Gosto de entender o que acontece embaixo da abstração: já escrevi um sistema 
 | --- | --- |
 | [Sistema de Arquivos](https://github.com/GabrielPontel/Sistema-de-Arquivos) | Sistema de arquivos simulado em C, com inodes, blocos, gerenciamento de espaço livre e shell de comandos |
 | [Análise e Complexidade de Algoritmos](https://github.com/GabrielPontel/Programa-para-Analise-e-Complexidade-de-Algoritmos) | Algoritmos clássicos em Python com contagem de operações para comparar complexidades na prática |
-| [Ferramentas para Programação II](https://github.com/GabrielPontel/Ferramentas-de-Programacao-2) | Stack web completa: Angular com PrimeNG no front-end, Spring Boot e Spring Security no back-end |
+| [Web com Angular e Spring Boot](https://github.com/GabrielPontel/Web-Angular-SpringBoot) | Stack web completa: Angular com PrimeNG no front-end, Spring Boot e Spring Security no back-end |
 | [Estrutura de Dados](https://github.com/GabrielPontel/Estrutura-de-Dados) | Listas, pilhas, filas, deques e árvores em C, nas formas estática e dinâmica |
 | [Programação Orientada a Objetos](https://github.com/GabrielPontel/Programacao-Orientada-a-Objetos) | Herança, encapsulamento, polimorfismo e exceções em Java, com Swing e JDBC |
 | [Banco de Dados](https://github.com/GabrielPontel/Banco-de-Dados) | Consultas, modelagem, triggers, views, procedures e functions em MySQL e PostgreSQL |
